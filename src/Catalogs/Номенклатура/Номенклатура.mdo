@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="145635bd-b1b2-4e44-9d87-9caf3435a8d8">
+  <producedTypes>
+    <objectType typeId="2eb59c8f-422c-4bf7-891e-7966b5bd193e" valueTypeId="a40531c9-a5ae-491a-97ac-e495baf0c877"/>
+    <refType typeId="c0007306-3278-453d-8562-52f42cbee066" valueTypeId="0fb9c04c-ab72-4f8b-be58-2416e7679455"/>
+    <selectionType typeId="4cb6fd95-0a9f-4c1f-b57f-d1317920bfa3" valueTypeId="b9666947-cfee-4fc5-976a-383a07258cf8"/>
+    <listType typeId="468c484f-2a53-4a58-b8f8-ffd2afefd496" valueTypeId="8429452f-2927-494e-8f9c-21f7c17b4882"/>
+    <managerType typeId="ca9f209c-c16a-403a-a3cc-134c6350d293" valueTypeId="5e14e462-75ab-43e3-94ae-9058164f6837"/>
+  </producedTypes>
+  <name>Номенклатура</name>
+  <synonym>
+    <key>uk</key>
+    <value>Номенклатура</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Номенклатура.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Номенклатура.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>uk</key>
+    <value>Номенклатура</value>
+  </objectPresentation>
+  <extendedObjectPresentation>
+    <key>uk</key>
+    <value>Номенклатура</value>
+  </extendedObjectPresentation>
+  <listPresentation>
+    <key>uk</key>
+    <value>Номенклатура</value>
+  </listPresentation>
+  <extendedListPresentation>
+    <key>uk</key>
+    <value>Номенклатура</value>
+  </extendedListPresentation>
+  <hierarchical>true</hierarchical>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>100</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <defaultObjectForm>Catalog.Номенклатура.Form.ФормаЭлемента</defaultObjectForm>
+  <tabularSections uuid="7e916a0d-c03b-4f98-8b7f-09a82014794b">
+    <producedTypes>
+      <objectType typeId="86695e21-557f-44c7-9e11-e6f616972ac3" valueTypeId="dfb5d415-be66-4a68-b8a6-d07abb1deeb2"/>
+      <rowType typeId="e278f3a9-ed56-494b-9b38-182ebf69d912" valueTypeId="1b0195c0-e90f-49b6-9072-372ec9b773eb"/>
+    </producedTypes>
+    <name>ДополнительныеСвойства</name>
+    <synonym>
+      <key>uk</key>
+      <value>Додаткові властивості</value>
+    </synonym>
+  </tabularSections>
+  <forms uuid="603c66ed-7591-4ced-9e4b-383e36e56514">
+    <name>ФормаЭлемента</name>
+    <synonym>
+      <key>uk</key>
+      <value>Форма элемента</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:Catalog>

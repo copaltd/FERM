@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9268be4c-2a6d-4665-96b9-921823fd2b68">
+  <name>НСИ</name>
+  <synonym>
+    <key>uk</key>
+    <value>НДІ</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Catalog.Номенклатура</content>
+</mdclass:Subsystem>

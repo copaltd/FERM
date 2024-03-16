@@ -36,5 +36,7 @@
     </synonym>
     <languageCode>uk</languageCode>
   </languages>
+  <subsystems>Subsystem.НСИ</subsystems>
   <roles>Role.ПолныеПрава</roles>
+  <catalogs>Catalog.Номенклатура</catalogs>
 </mdclass:Configuration>
