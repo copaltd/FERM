@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ce5b1511-e489-4ffa-81a6-83c5748436cb">
+  <name>Конфігурація</name>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="753ef963-8e06-494c-8d69-d2f8778b7439"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="3c0233d1-16c1-4eb6-9f10-8d38e927016d"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="77cccc3c-9c5a-478c-851b-02f0f1b092bb"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="f08599ae-e254-4100-8c2a-db1c7e24a982"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="d8c7bc43-3496-4c89-9302-26dfead72064"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="6d59b384-36ae-461d-8847-f928a3f688c6"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="102efdae-32d3-4177-86a7-7217c58098e5"/>
+  <configurationExtensionCompatibilityMode>8.3.21</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <defaultRoles>Role.ПолныеПрава</defaultRoles>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Українська</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.21</compatibilityMode>
+  <languages uuid="4d107b4c-4190-4e7c-8d65-109e73858cce">
+    <name>Українська</name>
+    <synonym>
+      <key>uk</key>
+      <value>Українська</value>
+    </synonym>
+    <languageCode>uk</languageCode>
+  </languages>
+  <roles>Role.ПолныеПрава</roles>
+</mdclass:Configuration>
