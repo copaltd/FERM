@@ -36,7 +36,16 @@
     </synonym>
     <languageCode>uk</languageCode>
   </languages>
+  <languages uuid="b1e20a92-1196-45b8-80a3-7c4e1fadb2ee">
+    <name>Русский</name>
+    <synonym>
+      <key>uk</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
   <subsystems>Subsystem.НСИ</subsystems>
   <roles>Role.ПолныеПрава</roles>
   <catalogs>Catalog.Номенклатура</catalogs>
+  <enums>Enum.ВидыНоменклатуры</enums>
 </mdclass:Configuration>

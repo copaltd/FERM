@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="145635bd-b1b2-4e44-9d87-9caf3435a8d8">
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="145635bd-b1b2-4e44-9d87-9caf3435a8d8">
   <producedTypes>
     <objectType typeId="2eb59c8f-422c-4bf7-891e-7966b5bd193e" valueTypeId="a40531c9-a5ae-491a-97ac-e495baf0c877"/>
     <refType typeId="c0007306-3278-453d-8562-52f42cbee066" valueTypeId="0fb9c04c-ab72-4f8b-be58-2416e7679455"/>
@@ -48,6 +48,21 @@
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
   <defaultObjectForm>Catalog.Номенклатура.Form.ФормаЭлемента</defaultObjectForm>
+  <attributes uuid="5168f823-a521-4a25-8f33-d7b82d326038">
+    <name>ВидНоменклатуры</name>
+    <synonym>
+      <key>uk</key>
+      <value>Вид номенклатуры</value>
+    </synonym>
+    <type>
+      <types>EnumRef.ВидыНоменклатуры</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <tabularSections uuid="7e916a0d-c03b-4f98-8b7f-09a82014794b">
     <producedTypes>
       <objectType typeId="86695e21-557f-44c7-9e11-e6f616972ac3" valueTypeId="dfb5d415-be66-4a68-b8a6-d07abb1deeb2"/>
