@@ -8,4 +8,6 @@
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>Catalog.Номенклатура</content>
+  <content>Enum.ВидыНоменклатуры</content>
+  <content>Catalog.Пользователи</content>
 </mdclass:Subsystem>
