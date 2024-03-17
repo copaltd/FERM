@@ -47,6 +47,5 @@
   <subsystems>Subsystem.НСИ</subsystems>
   <roles>Role.ПолныеПрава</roles>
   <catalogs>Catalog.Номенклатура</catalogs>
-  <documents>Document.УстановкаЦен</documents>
   <enums>Enum.ВидыНоменклатуры</enums>
 </mdclass:Configuration>
