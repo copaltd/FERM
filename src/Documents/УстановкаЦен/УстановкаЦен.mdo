@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f4abe220-e159-422b-9179-c12564823c58">
+  <producedTypes>
+    <objectType typeId="2d3e44b5-4b75-45d8-9b7b-d182fe15db63" valueTypeId="46e7607b-8ae9-4ec2-a1ac-70e76dffe23d"/>
+    <refType typeId="182d4789-09a2-4454-acd9-dd47c539eef2" valueTypeId="cf51d9cc-5420-454e-8e82-b66541931747"/>
+    <selectionType typeId="4161f38a-e3c8-442b-bbb8-1e5c7c6ea003" valueTypeId="d1c210ce-e2aa-4fcd-8628-fc434ff99dd9"/>
+    <listType typeId="cbce548f-35f8-4918-9b2b-4fde1c176c95" valueTypeId="9f5d78d5-57b0-43df-a96e-32d821c7cc75"/>
+    <managerType typeId="3d06c906-13e9-4ab6-a3b1-41e4aad81739" valueTypeId="476edeb5-a311-4043-a784-9837648232c1"/>
+  </producedTypes>
+  <name>УстановкаЦен</name>
+  <synonym>
+    <key>uk</key>
+    <value>Установка цен</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.УстановкаЦен.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+</mdclass:Document>
