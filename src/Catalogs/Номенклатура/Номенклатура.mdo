@@ -73,23 +73,6 @@
       <key>uk</key>
       <value>Додаткові властивості</value>
     </synonym>
-    <attributes uuid="f9ba800d-d7a3-4ee6-a22c-a0507c400579">
-      <name>Реквизит</name>
-      <synonym>
-        <key>uk</key>
-        <value>Реквизит</value>
-      </synonym>
-      <type>
-        <types>String</types>
-        <stringQualifiers>
-          <length>10</length>
-        </stringQualifiers>
-      </type>
-      <minValue xsi:type="core:UndefinedValue"/>
-      <maxValue xsi:type="core:UndefinedValue"/>
-      <dataHistory>Use</dataHistory>
-      <fullTextSearch>Use</fullTextSearch>
-    </attributes>
   </tabularSections>
   <forms uuid="603c66ed-7591-4ced-9e4b-383e36e56514">
     <name>ФормаЭлемента</name>
