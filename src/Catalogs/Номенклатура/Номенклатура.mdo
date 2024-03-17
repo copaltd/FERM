@@ -63,6 +63,26 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="c295edd8-8819-4759-84bf-a73e5b5cc89c">
+    <name>ДатаСоздания</name>
+    <synonym>
+      <key>uk</key>
+      <value>Дата створення</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
+      <value>Дата создания</value>
+    </synonym>
+    <type>
+      <types>Date</types>
+      <dateQualifiers/>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <tabularSections uuid="7e916a0d-c03b-4f98-8b7f-09a82014794b">
     <producedTypes>
       <objectType typeId="86695e21-557f-44c7-9e11-e6f616972ac3" valueTypeId="dfb5d415-be66-4a68-b8a6-d07abb1deeb2"/>
