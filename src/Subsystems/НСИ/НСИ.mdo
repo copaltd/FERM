@@ -9,5 +9,5 @@
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>Catalog.Номенклатура</content>
   <content>Enum.ВидыНоменклатуры</content>
-  <content>Catalog.Пользователи</content>
+  <content>Catalog.Сотрудники</content>
 </mdclass:Subsystem>
