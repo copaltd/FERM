@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="5a0d968c-ec04-40a2-9652-af819177fe2a">
+  <producedTypes>
+    <objectType typeId="d90f7a25-18f5-4a1f-aac7-783940b7c9d5" valueTypeId="063c9edf-d7d4-45bf-981a-0b3ed57ed8f2"/>
+    <managerType typeId="d954cbdc-5dbb-4d8d-8819-457a02536c72" valueTypeId="b186bb4f-300e-48e3-b079-18c90203eca5"/>
+  </producedTypes>
+  <name>ДДС</name>
+  <synonym>
+    <key>uk</key>
+    <value>РГК</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>ДДС</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:Report>
