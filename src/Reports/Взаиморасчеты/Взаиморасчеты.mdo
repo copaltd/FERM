@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f012a814-ad45-45c1-974d-4ede0cd9a119">
+  <producedTypes>
+    <objectType typeId="e6cae72d-3911-4b49-a372-fc7c9437febd" valueTypeId="ea79a852-8736-46a5-b04a-1d8bdb78782e"/>
+    <managerType typeId="e463dba6-b665-4d3b-8cf7-91c487f1ece2" valueTypeId="c142a0e4-7277-4a5a-a432-8175d2481486"/>
+  </producedTypes>
+  <name>Взаиморасчеты</name>
+  <synonym>
+    <key>uk</key>
+    <value>Взаєморазрахунки</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Взаиморасчеты</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:Report>
