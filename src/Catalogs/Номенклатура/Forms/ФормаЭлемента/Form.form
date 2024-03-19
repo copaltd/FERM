@@ -51,6 +51,56 @@
     </extInfo>
   </items>
   <items xsi:type="form:FormField">
+    <name>ДатаСоздания</name>
+    <id>29</id>
+    <visible>true</visible>
+    <enabled>true</enabled>
+    <userVisible>
+      <common>true</common>
+    </userVisible>
+    <dataPath xsi:type="form:DataPath">
+      <segments>Объект.ДатаСоздания</segments>
+    </dataPath>
+    <extendedTooltip>
+      <name>ДатаСозданияРасширеннаяПодсказка</name>
+      <id>31</id>
+      <visible>true</visible>
+      <enabled>true</enabled>
+      <userVisible>
+        <common>true</common>
+      </userVisible>
+      <type>Label</type>
+      <autoMaxWidth>true</autoMaxWidth>
+      <autoMaxHeight>true</autoMaxHeight>
+      <extInfo xsi:type="form:LabelDecorationExtInfo">
+        <horizontalAlign>Left</horizontalAlign>
+      </extInfo>
+    </extendedTooltip>
+    <contextMenu>
+      <name>ДатаСозданияКонтекстноеМеню</name>
+      <id>30</id>
+      <visible>true</visible>
+      <enabled>true</enabled>
+      <userVisible>
+        <common>true</common>
+      </userVisible>
+      <autoFill>true</autoFill>
+    </contextMenu>
+    <type>InputField</type>
+    <editMode>Enter</editMode>
+    <showInHeader>true</showInHeader>
+    <headerHorizontalAlign>Left</headerHorizontalAlign>
+    <showInFooter>true</showInFooter>
+    <extInfo xsi:type="form:InputFieldExtInfo">
+      <autoMaxWidth>true</autoMaxWidth>
+      <autoMaxHeight>true</autoMaxHeight>
+      <wrap>true</wrap>
+      <chooseType>true</chooseType>
+      <typeDomainEnabled>true</typeDomainEnabled>
+      <textEdit>true</textEdit>
+    </extInfo>
+  </items>
+  <items xsi:type="form:FormField">
     <name>Наименование</name>
     <id>4</id>
     <visible>true</visible>
@@ -434,7 +484,7 @@
   </items>
   <items xsi:type="form:Decoration">
     <name>Декорация1</name>
-    <id>29</id>
+    <id>32</id>
     <title>
       <key>uk</key>
       <value>Декорация1</value>
@@ -446,7 +496,7 @@
     </userVisible>
     <extendedTooltip>
       <name>Декорация1РасширеннаяПодсказка</name>
-      <id>31</id>
+      <id>34</id>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -461,7 +511,7 @@
     </extendedTooltip>
     <contextMenu>
       <name>Декорация1КонтекстноеМеню</name>
-      <id>30</id>
+      <id>33</id>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>

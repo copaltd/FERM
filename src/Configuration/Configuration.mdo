@@ -49,4 +49,6 @@
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Сотрудники</catalogs>
   <enums>Enum.ВидыНоменклатуры</enums>
+  <reports>Report.Взаиморасчеты</reports>
+  <reports>Report.ДДС</reports>
 </mdclass:Configuration>
